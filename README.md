@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leah! @leah-never-knows
 - 👀 I’m interested in coding, frontend/ backend development, hardware engineering 
-- 🌱 I’m currently learning (Bioresource Engineering, Computer Science)
+- 🌱 I’m currently learning (Bioresource Engineering, CS, Design)
 - 💞️ I’m looking to collaborate on ... practically anything 
 - 📫 How to reach me: email: qi.ming.yue13@gmail.com // pinterest: @einekleineme
 
