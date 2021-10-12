@@ -3,7 +3,7 @@
 - I’m currently learning Bioresource Science and Engineering, with Design and Computer Science
 - I’m looking to collaborate on ... practically anything 
 - How to reach me: email: qi.ming.yue13@gmail.com // pinterest: @einekleineme
-- Pronouns: she/ her
+
 
 
 <!---
