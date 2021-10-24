@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Leah! (@leah-never-knows) Nice to meet you! 
-- I’m interested in coding, frontend/ backend development, hardware engineering 
-- I’m currently learning Bioresource Science and Engineering, with Design and Computer Science
-- I’m looking to collaborate on ... practically anything 
-- How to reach me: email: qi.ming.yue13@gmail.com // pinterest: @einekleineme
-
+- 👋 Hi, I’m Leah (明月) Q.  
+- I’m interested in coding, frontend/ backend development, hardware engineering etc.
+- I’m currently learning Earth Sciences and Engineering, with Design and Computer Science
+- How to reach me: email: qi.ming.yue13@gmail.com // 
+- PS: Please do not spam my email. Only for official/ collaboration purposes. Have a nice day!
 
 
 <!---
