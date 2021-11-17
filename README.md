@@ -18,8 +18,8 @@ More info:
 
 Languages Spoken:
 
-- *English, French, Cantonese (Native/Bilingual proficiency)
-- *Mandarin Chinese (Simplified) (Professional working proficiency)
+- *English, French, Cantonese (Native/Bilingual proficiency)*
+- *Mandarin Chinese (Simplified) (Professional working proficiency)*
 - *Finnish, Bahasa Indonesian (Elementary)*
 
 
