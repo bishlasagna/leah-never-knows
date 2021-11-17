@@ -1,13 +1,12 @@
-**👋 Hi there!**
-
+ **👋 Hi there!** 
 
 I'm Leah Q, currently learning JD/BCL (Bachelor of Civil Law, Juris Doctor) and BS Computer Science (Bachelor of Science). Graduating student in Spring 2022.
 
-*I’m interested in IoT development, ethical hacking and front end dev.*
+*I’m interested in IoT development, ethical hacking and front end dev.* 
 
 More info:
 
-- Completed bar exams for the state of CA.
+- Completed bar exams for the state of CA. 
 - Proficient in MEAN stack.
 - Most used languages: JS, Python, Ruby, C++
 - Looking for summer internships!
@@ -25,7 +24,7 @@ Languages Spoken:
 
 > **Do feel free to message me on anything related to area of interests in tech/ law. Always open to new conversations!**
 
-- *Email- qi.ming.yue13@gmail.com*
+- *[Email](qi.ming.yue13@gmail.com)*
 - PS: Please use my email only for official/ collaboration purposes. Have a nice day! :)
 
 
