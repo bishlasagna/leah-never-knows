@@ -14,7 +14,7 @@ More info:
 - Activities: Law Honors Society, VP Computer Science Dept, Photography, CEFCYS (Le Cercle des Femmes de la CyberSécurité)
 
 
- => To see my photography/ design: https://www.behance.net/leah_never_knows
+ => To see my photography/ design: [My Behance Page] (https://www.behance.net/leah_never_knows)
 
 Languages Spoken:
 
@@ -23,7 +23,7 @@ Languages Spoken:
 - *Finnish, Bahasa Indonesian (Elementary)*
 
 
-***Do feel free to message me on anything related to area of interests in tech/ law. Always open to new conversations!***
+> **Do feel free to message me on anything related to area of interests in tech/ law. Always open to new conversations!**
 
 - *Email- qi.ming.yue13@gmail.com*
 - PS: Please use my email only for official/ collaboration purposes. Have a nice day! :)
