@@ -14,7 +14,7 @@ More info:
 - Activities: Law Honors Society, VP Computer Science Dept, Photography, CEFCYS (Le Cercle des Femmes de la CyberSécurité)
 
 
- => To see my photography/ design: [My Behance Page] (https://www.behance.net/leah_never_knows)
+ => To see my photography/ design: [My Behance Page](https://www.behance.net/leah_never_knows)
 
 Languages Spoken:
 
