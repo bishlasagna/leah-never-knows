@@ -5,7 +5,7 @@ I'm Leah Q, currently learning JD/BCL (Bachelor of Civil Law, Juris Doctor) and 
 
 *I’m interested in IoT development, ethical hacking and front end dev.*
 
-Les autres infos:
+More info:
 
 - Completed bar exams for the state of CA.
 - Proficient in MEAN stack.
@@ -19,8 +19,9 @@ Les autres infos:
 
 
 Do feel free to message me on anything related to area of interests in tech/ law. Always open to new conversations!
-*Email- qi.ming.yue13@gmail.com*
-PS: Please use my email only for official/ collaboration purposes. Have a nice day! :)
+
+- *Email- qi.ming.yue13@gmail.com*
+- PS: Please use my email only for official/ collaboration purposes. Have a nice day! :)
 
 
 <!---
