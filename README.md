@@ -18,7 +18,7 @@ Les autres infos:
 
 
 
-How to reach me: email: qi.ming.yue13@gmail.com // 
+Do feel free to message me on anything related to area of interests in tech/ law. Always open to new conversations!
 PS: Please use my email only for official/ collaboration purposes. Have a nice day! :)
 
 
