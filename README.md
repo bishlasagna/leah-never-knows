@@ -10,7 +10,7 @@ More info:
 - Proficient in MEAN stack.
 - Most used languages: JS, Python, Ruby, C++
 - Looking for summer internships!
-- Activities: Law Honors Society, VP Computer Science Dept, Photography, CEFCYS (Le Cercle des Femmes de la CyberSécurité)
+- Activities: Law Students Association, VP Computer Science Dept, Photography, CEFCYS (Le Cercle des Femmes de la CyberSécurité)
 
 
  => To see my photography/ design: [My Behance Page](https://www.behance.net/leah_never_knows)
