@@ -1,6 +1,6 @@
  **👋 Hi there!** 
 
-I'm Leah Q, currently learning JD/BCL (Bachelor of Civil Law, Juris Doctor) and BS Computer Science (Bachelor of Science). Graduating student in Spring 2022.
+I'm Leah Wang, currently learning JD/BCL (Bachelor of Civil Law, Juris Doctor) and BS Computer Science (Bachelor of Science). Graduating student in Spring 2022.
 
 *I’m interested in IoT development, ethical hacking and front end dev.* 
 
