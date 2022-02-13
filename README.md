@@ -1,19 +1,19 @@
- **👋 Hi there!** 
+ **👋 Ayo, wadduppp!** 
 
-I'm Leah!
+I'm Leah, an actual, living individual with the same credentials. 
 
-*I’m interested in IoT development, ethical hacking and front end dev.* 
+*I’m interested in IoT development, ethical hacking and front end development.* 
 
-More info:
+About Me:
 
-- Most used languages: JS, Python, Ruby, C++
-- Looking for summer internships!
+- Dual-degree graduate student. Areas of expertise: Advocacy and Dispute Resolution, Civil/ Environmental Law, GNS3 working, RUST, Docker, Swift
+- Most used languages: JS, Python, Ruby
+- Currently interning as Legislation Consultant (till May 2022)
 
 
-> **Do feel free to message me on anything related to area of interests in tech/ law. Always open to new conversations!**
+> **Do feel free to message me on anything related to area of interests in tech/ law. Always open to new conversations! And FYI, I'm very much alive over emails and certain social media.**
 
-- *Email: qi.ming.yue13@gmail.com*
-- PS: Please use my email only for official/ collaboration purposes. Have a nice day! :)
+
 
 
 <!---
